@@ -19,7 +19,7 @@
 ---
 
 1. [Ссылка на репозиторий:](https://github.com/elenakrivobokova/ControlTest_1 "Нажмите для перехода").
-2. Блок-схема алгоритма находится на файле "Schema.pdf".
+2. Блок-схема алгоритма находится на файле ["Schema.pdf"](https://github.com/elenakrivobokova/ControlTest_1/blob/main/Scheme.pdf "Нажмите для перехода").
 3. Описание решения задачи на языке C#:
 
 + _Просим пользователя ввести с клавиатуры строки через пробел (элементы массива)_:
@@ -58,9 +58,8 @@ void ResultArray(string[] arr)
     System.Console.WriteLine("[" + string.Join(",", newArr) + "]");
 }
 ```
-4. Программа на C# расположена в папке Task.
+4. Программа на C# расположена в папке [Task](https://github.com/elenakrivobokova/ControlTest_1/blob/main/Task/Program.cs "Нажмите для перехода").
 5. Ход выполнения итоговой проверочной работы фиксировался в коммитах.
 --- 
-
 
 
