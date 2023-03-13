@@ -1,0 +1,15 @@
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\bin\Debug\net6.0\Task.exe
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\bin\Debug\net6.0\Task.deps.json
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\bin\Debug\net6.0\Task.dll
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\bin\Debug\net6.0\Task.pdb
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.dll
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\refint\Task.dll
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.pdb
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\lena-\Desktop\Лекции и семинары GB\1 курс_Итоговая работа\ControlTest_1\Task\obj\Debug\net6.0\ref\Task.dll
