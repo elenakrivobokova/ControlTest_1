@@ -390,3 +390,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+*.bin/Debug/net6.0
+*.obj
